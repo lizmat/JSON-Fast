@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/timo/json_fast.svg?branch=master)](https://travis-ci.org/timo/json_fast)
+[![Actions Status](https://github.com/lizmat/JSON-Fast/actions/workflows/linux.yml/badge.svg)](https://github.com/lizmat/JSON-Fast/actions) [![Actions Status](https://github.com/lizmat/JSON-Fast/actions/workflows/macos.yml/badge.svg)](https://github.com/lizmat/JSON-Fast/actions) [![Actions Status](https://github.com/lizmat/JSON-Fast/actions/workflows/windows.yml/badge.svg)](https://github.com/lizmat/JSON-Fast/actions)
 
 JSON::Fast
 ==========
