@@ -16,7 +16,7 @@
   "name": "JSON::Fast",
   "perl": "6.*",
   "provides": {
-    "JSON::Fast": "lib/JSON/Fast.pm6"
+    "JSON::Fast": "lib/JSON/Fast.rakumod"
   },
   "resources": [
   ],
